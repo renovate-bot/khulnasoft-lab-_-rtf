@@ -28,10 +28,6 @@ github.com/mattn/go-colorable
 github.com/mattn/go-isatty
 # github.com/mitchellh/mapstructure v1.5.0
 github.com/mitchellh/mapstructure
-# github.com/pelletier/go-buffruneio v0.3.0
-## explicit
-# github.com/pelletier/go-toml v1.9.5
-## explicit
 # github.com/pelletier/go-toml/v2 v2.1.0
 github.com/pelletier/go-toml/v2
 github.com/pelletier/go-toml/v2/internal/characters
@@ -49,7 +45,6 @@ github.com/sourcegraph/conc/internal/multierror
 github.com/sourcegraph/conc/iter
 github.com/sourcegraph/conc/panics
 # github.com/spf13/afero v1.11.0
-## explicit
 github.com/spf13/afero
 github.com/spf13/afero/internal/common
 github.com/spf13/afero/mem
@@ -59,8 +54,6 @@ github.com/spf13/cast
 # github.com/spf13/cobra v1.8.0
 ## explicit
 github.com/spf13/cobra
-# github.com/spf13/jwalterweatherman v1.1.0
-## explicit
 # github.com/spf13/pflag v1.0.5
 github.com/spf13/pflag
 # github.com/spf13/viper v1.17.0
@@ -76,8 +69,6 @@ github.com/spf13/viper/internal/encoding/toml
 github.com/spf13/viper/internal/encoding/yaml
 # github.com/subosito/gotenv v1.6.0
 github.com/subosito/gotenv
-# go.uber.org/atomic v1.11.0
-## explicit
 # go.uber.org/multierr v1.11.0
 ## explicit
 go.uber.org/multierr
@@ -100,8 +91,6 @@ golang.org/x/text/internal/utf8internal
 golang.org/x/text/runes
 golang.org/x/text/transform
 golang.org/x/text/unicode/norm
-# gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
-## explicit
 # gopkg.in/ini.v1 v1.67.0
 gopkg.in/ini.v1
 # gopkg.in/yaml.v3 v3.0.1
