@@ -1,6 +1,6 @@
 module github.com/khulnasoft-lab/rtf
 
-go 1.15
+go 1.18
 
 require (
 	github.com/docker/distribution v2.8.3+incompatible
