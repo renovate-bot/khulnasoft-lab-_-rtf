@@ -11,7 +11,7 @@ jobs:
     - name: Set up Go 1.19
       uses: actions/setup-go@v3
       with:
-        go-version: 1.19.2
+        go-version: 1.25.1
       id: go
 
     - name: Set path
@@ -47,7 +47,7 @@ jobs:
     - name: Set up Go 1.19
       uses: actions/setup-go@v3
       with:
-        go-version: 1.19.2
+        go-version: 1.25.1
       id: go
 
     - name: Check out code
